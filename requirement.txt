@@ -1,1 +1,2 @@
-
+python==
+jupyter lab notebook==
